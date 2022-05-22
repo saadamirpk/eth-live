@@ -1,6 +1,6 @@
 # Ethereum Live CandleStick Chart Made with React & Apex Charts
 
-[View live Demo](https://)
+[View live Demo](https://saadamirpk.github.io/eth-live/)
 
 ![Game Gif](/src/ethdemo-gif.gif)
 
