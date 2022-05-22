@@ -40,7 +40,6 @@ function CandleStickChart(props: any) {
 
     const fulldataArr = dataPoints.map((point: any) => {
       const dateMsStr = point.date.toString() + "000";
-      console.log(dateMsStr);
       return {
         x: new Date(Number.parseInt(dateMsStr)),
         y: [point.open, point.high, point.low, point.close],
