@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eth-live/static/css/main.a11722d5.css",
+    "main.js": "/eth-live/static/js/main.dc29862d.js",
+    "static/js/787.108d616f.chunk.js": "/eth-live/static/js/787.108d616f.chunk.js",
+    "index.html": "/eth-live/index.html",
+    "main.a11722d5.css.map": "/eth-live/static/css/main.a11722d5.css.map",
+    "main.dc29862d.js.map": "/eth-live/static/js/main.dc29862d.js.map",
+    "787.108d616f.chunk.js.map": "/eth-live/static/js/787.108d616f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a11722d5.css",
+    "static/js/main.dc29862d.js"
+  ]
+}
